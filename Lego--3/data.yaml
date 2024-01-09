@@ -1,0 +1,33 @@
+names:
+- '11211'
+- '14719'
+- '22865'
+- '2357'
+- '2431'
+- '3001'
+- '3003'
+- '3004'
+- '3021'
+- '3022'
+- '3023'
+- '3024'
+- '3031'
+- 3069b
+- 3070b
+- '3710'
+- '3941'
+- '3958'
+- 4032a
+- '41682'
+- '41740'
+- '87079'
+nc: 22
+roboflow:
+  license: CC BY 4.0
+  project: lego-ptfnf
+  url: https://universe.roboflow.com/poltechnika-gdaska/lego-ptfnf/dataset/3
+  version: 3
+  workspace: poltechnika-gdaska
+test: ../test/images
+train: Lego--3/train/images
+val: Lego--3/valid/images
