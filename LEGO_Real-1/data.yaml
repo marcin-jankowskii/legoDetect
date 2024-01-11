@@ -1,0 +1,35 @@
+names:
+- '11211'
+- '14719'
+- '22885'
+- '2357'
+- '2431'
+- '3001'
+- '3003'
+- '3004'
+- '3021'
+- '3022'
+- '3023'
+- '3024'
+- '3031'
+- '3068'
+- '3069'
+- '3070'
+- '3710'
+- '3941'
+- '3958'
+- '4032'
+- '41682'
+- '41740'
+- '87079'
+- '98138'
+nc: 24
+roboflow:
+  license: CC BY 4.0
+  project: lego_real
+  url: https://universe.roboflow.com/poltechnika-gdaska/lego_real/dataset/1
+  version: 1
+  workspace: poltechnika-gdaska
+test: ../test/images
+train: LEGO_Real-1/train/images
+val: LEGO_Real-1/valid/images
